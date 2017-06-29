@@ -8,7 +8,7 @@ shearing them with you is my pleasure. I hope you can find them helpful.
 
 ### [CPP](https://github.com/k-five/1000_examples_with_cpp)
 
-### [C-Standard-Library]
+### [C-Standard-Library](https://github.com/k-five/C-Standard-Library)
 
 ### [D](https://github.com/k-five/D-By-Example)
 
